@@ -16,6 +16,7 @@ sensor gene remains in its inactive state without external activation.
 <div align="center">
   <img src="img/circuit_diagram.png" alt="CircuitDiagram" width="550"/>
 </div>
+
 **Fig. 1.** Diagram of the gene sensor. Single-guide RNAs (sgRNAs) are engineered and 
 inserted into the terminator region of a sensor gene so that the sgRNAs co-express with 
 the sensor gene. Under cellular stress, the sgRNA activates anti-apoptotic Bcl2, thereby 
@@ -38,6 +39,7 @@ following steps:
 <div align="center">
   <img src="img/workflow_diagram.png" alt="WfDiagram" width="600"/>
 </div>
+
 **Fig. 2.** Overview of the RNA-Seq analysis pipeline.
 
 ---
@@ -65,6 +67,7 @@ highlighting the distinct expression patterns.
 <div align="center">
   <img src="img/volcano.png" alt="volcano" width="500"/>
 </div>
+
 **Fig. 3.** Volcano plot of differential expression.
 
 The jitter plot visualizes Bcl2 expression across conditions, showing minimal expression in 
@@ -73,6 +76,7 @@ the inactive state compared to the constitutive state.
 <div align="center">
   <img src="img/jitter.png" alt="jitter" width="500"/>
 </div>
+
 **Fig. 4.** Jitter plot of Bcl2 expression across conditions.
 
 The Integrative Genomics Viewer (IGV) provides a visual representation of read alignments and coverage across the Bcl2 gene. 
@@ -82,6 +86,7 @@ Bcl2, as evidenced by the minimal expression in the inactive state.
 <div align="center">
   <img src="img/IGV.png" alt="IGV" width="700"/>
 </div>
+
 **Fig. 5.** IGV showing read alignment and coverage of the Bcl2 gene across 
 conditions.
 
