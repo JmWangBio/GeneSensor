@@ -1,0 +1,15 @@
+samples:
+  - gene_sensor-1
+  - gene_sensor-2
+  - gene_sensor-3
+  - gene_sensor-4
+  - gene_sensor-5
+  - gene_sensor-6
+  - gene_sensor-7
+  - gene_sensor-8
+  - gene_sensor-9
+  
+genome: "/path/to/fasta/CriGri"
+input_dir: "/path/to/data/raw"
+output_dir: "/path/to/data/processed"
+gtf: "/path/to/gtf/CriGri.gtf.gz"
